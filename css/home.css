@@ -3,6 +3,11 @@ body
     margin: 0px;
 }
 
+h1
+{
+	color: white;
+}
+
 #banner
 {
 	background-color: black;
@@ -30,7 +35,8 @@ body
 	min-width: 75px;
 	min-height: 300px;
 	max-width: 75px;
-	max-height: 300px;
+	max-height: 315px;
+	//height: auto;
 	margin-left: 10px;
 	margin-top: auto;
 	margin-bottom: auto;
@@ -58,7 +64,7 @@ body
 	margin: 50px;
 	margin-left: auto;
 	margin-right: auto;
-	padding-bottom: 75%;
+	//padding-bottom: 75%;
 }
 
 .windowImage
