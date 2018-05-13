@@ -22,16 +22,16 @@ hr
 #banner
 {
 	background-color: black;
-	min-width: 100%;
-	min-height: 100%;
-	max-width: 100%;
-	max-height: 100%;
+	min-width: 100vh;
+	min-height: 100vh;
+	max-width: 100vh;
+	max-height: 100vh;
 	//max-height: 1080px;
 	//padding: 0px;
 	//border: 0px;
 	margin-bottom: 150px;
 	overflow: hidden;
-	//background-image: "img/newyork.jpeg";
+	
 }
 
 #bannerImage
@@ -39,8 +39,10 @@ hr
 	//overflow: hidden;
 	//max-width: 100%;
 	//min-width: 100%;
-	max-height: 100%;
+	//min-width: 100%;
 	min-height: 100%;
+	//max-width: 100%;
+	max-height: 100%;
 }
 
 #menu
@@ -68,6 +70,7 @@ hr
 {
 	max-width: 100%;
 	max-height: 100%;
+	/min-width: 100%;
 }
 
 .menuImage:hover
