@@ -5,7 +5,18 @@ body
 
 h1
 {
-	color: white;
+	//color: white;
+	text-align: center;
+}
+
+p
+{
+	margin: 20px;
+}
+
+hr
+{
+	margin: 20px;
 }
 
 #banner
